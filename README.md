@@ -1,5 +1,7 @@
 # WebglSamplesAngular18
 
+Sample programs in this project are based upon [MDN WebGL examples](https://github.com/mdn/dom-examples/tree/main/webgl-examples)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
 
 ## Development server
